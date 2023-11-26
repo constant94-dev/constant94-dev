@@ -1,4 +1,4 @@
-### Hi there👋
+### This is me 👋
 <br/>
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=공부해라~그건너무어려워&fontColor=ffffff&fontSize=50&animation=twinkling)
