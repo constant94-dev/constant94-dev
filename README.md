@@ -5,9 +5,12 @@
 
 <br/>
 
+<div style="display: flex; white-space: nowrap;">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constant94-dev&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=aura&hide=go,scss,css" style="padding: 0rem 1rem 0rem 1rem"/>
 <img src="https://github-readme-stats.vercel.app/api?username=constant94-dev&show_icons=true&theme=aura"/>
 
+</div>
 
 <!--
 **constant94-dev/constant94-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
