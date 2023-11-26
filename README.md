@@ -5,9 +5,9 @@
 
 <br/>
 
-<div style="display: flex; white-space: nowrap; justify-content: center;">
+<div style="display: flex; white-space: nowrap;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constant94-dev&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=aura&hide=go,scss,css" style="padding: 0rem 1rem 0rem 1rem"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constant94-dev&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=aura&hide=go,scss,css" style="padding: 0rem 3rem 0rem 1rem"/>
 <img src="https://github-readme-stats.vercel.app/api?username=constant94-dev&show_icons=true&theme=aura"/>
 
 </div>
