@@ -1,7 +1,13 @@
-### This is me 👋
+### Hello there 👋
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=공부해라~그건너무어려워&fontColor=ffffff&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=${welcome,visitor}&fontColor=ffffff&fontSize=50&animation=twinkling)
+
+- 🔭 저는 현재 이직할 회사를 찾고 있어요!
+- 🌱 Java와 Spring을 잘 사용하기 위해 학습하고 있어요!
+- 📫 저와 이야기 해요!
+  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronnpark/)](https://www.linkedin.com/in/aaronnpark/)
+  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@brainstorm2973@gmail.com)](mailto:mail@brainstorm2973)
 
 <br/>
 
@@ -11,6 +17,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=constant94-dev&show_icons=true&theme=aura"/>
 
 </div>
+
+
 
 <!--
 **constant94-dev/constant94-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
