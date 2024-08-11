@@ -5,7 +5,7 @@
 
 - 🔭 저는 현재 이직할 회사를 찾고 있어요!
 - 🌱 Java와 Spring을 잘 사용하기 위해 학습하고 있어요!
-- 📫 Tell me!
+- 📫 Tell me!
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronnpark/)](https://www.linkedin.com/in/aaronnpark/)
   - [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@brainstorm2973@gmail.com)](mailto:mail@brainstorm2973)
 
