@@ -3,11 +3,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=${welcome,visitor}&fontColor=ffffff&fontSize=50&animation=twinkling)
 
-- 🔭 저는 현재 이직할 회사를 찾고 있어요!
+- 🔭 저는 흥미로운 경험을 찾고 있어요!
 - 🌱 Java와 Spring을 잘 사용하기 위해 학습하고 있어요!
 - 📫 Tell me!
-  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronnpark/)](https://www.linkedin.com/in/aaronnpark/)
-  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@brainstorm2973@gmail.com)](mailto:mail@brainstorm2973)
+
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanpk/)
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@brainstorm2973@gmail.com)
 
 <br/>
 
